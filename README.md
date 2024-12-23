@@ -43,6 +43,8 @@
 1. Useless Facts API: Supplies random facts in JSON format, integrated using the Fetch API.
 Screenshot
 
+**ScreenShots:**
+Image_of_the_2nd_site.png located in the folder
 
 **Roadmap:**
 - This repository is part of a series. Future repositories will:
